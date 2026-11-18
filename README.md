@@ -53,3 +53,7 @@ Dá para parar e voltar outro dia. Ela anota tudo em `clipe.md`, na pasta do cli
 | `guias/` | O ofício de cada parte, com o que funcionou e o que deu errado no clipe de referência |
 | `modelos/` | O esqueleto do documento do clipe |
 | `scripts/` | Os programas de montagem: mapa da música, lista de cortes, junção dos blocos, imagem parada com movimento |
+
+## Licença
+
+MIT. Use, copie e modifique à vontade. Veja o arquivo `LICENSE`.
